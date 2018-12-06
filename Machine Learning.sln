@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XOR Gatter", "Machine Learning\XOR Gatter.csproj", "{C89AD136-1FF4-45E8-9FDF-F55F5878F412}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linear Regression", "Linear Regression\Linear Regression.csproj", "{05ECD25A-2745-4C5C-9B73-8CC19AE83A01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C89AD136-1FF4-45E8-9FDF-F55F5878F412}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C89AD136-1FF4-45E8-9FDF-F55F5878F412}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C89AD136-1FF4-45E8-9FDF-F55F5878F412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05ECD25A-2745-4C5C-9B73-8CC19AE83A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05ECD25A-2745-4C5C-9B73-8CC19AE83A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05ECD25A-2745-4C5C-9B73-8CC19AE83A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05ECD25A-2745-4C5C-9B73-8CC19AE83A01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
